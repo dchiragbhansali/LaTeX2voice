@@ -1,4 +1,8 @@
 dictionary = {
-"+":"plus"
+  "+":"plus ",
+  "-":"minus ",
+  "neg":"not ",
+  "!":"factorial",
+  "#":"primorial"
 
 }
